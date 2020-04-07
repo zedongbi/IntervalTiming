@@ -37,7 +37,7 @@ of the non-diagonal recurrent weights, which, according to 'Orhan & Ma, Nat. Neu
  we set initial_std=0.3. However, we found the convergence of training may depend on the operating system or hardware environment.
  Therefore, if you find the training is hard to converge in your environment, reduce this number slightly. 
 
-##Acknowledgement
+## Acknowledgement
 This code is impossible without the following papers:
 
 (1) G. R. Yang et al. Task representations in neural networks trained to
